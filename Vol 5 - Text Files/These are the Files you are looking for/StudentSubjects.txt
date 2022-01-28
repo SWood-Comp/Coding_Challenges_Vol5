@@ -1,0 +1,14 @@
+Caitlyn,Biology,English,Psychology
+Bobby,Sport,Computing,Business
+Taylor,Maths,Physics,Psychology
+Michal,Physics,Computing,Maths
+Jenny,Law,English,History
+Peter,Business,Law,Product Design
+Dennis,Computing,Art,Business
+Terry,Biology,Maths,Psychology
+Jake,Sport,Law,Business
+Ryan,Maths,Physics,Psychology
+Rachel,Physics,Computing,Maths
+John,Law,English,History
+Sandra,Business,Law,Product Design
+Roxy,Computing,Law,Business

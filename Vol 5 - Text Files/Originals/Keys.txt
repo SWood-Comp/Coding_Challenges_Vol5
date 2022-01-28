@@ -1,0 +1,7 @@
+Code1 (Witcher) - 14
+Code2 (Gettysburg) - 6
+Code3 (4or5 moments) - 10
+Code4 (Han Solo) - 18 (chunked in 5's)
+Code5 (Raleigh) - 20 (backwards too)
+Code6 (Panic!) - 13
+Code7 (Foos) - 11
